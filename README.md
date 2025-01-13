@@ -2,6 +2,9 @@
 
 ## Cloud Development Kit (CDK) Deployment
 
+#### Added additonal feature 
+- Update A/AAAA based on IP4 and IP6
+
 This repository contains all the required code to deploy a Serverless Dynamic DNS solution in AWS.
 
 ![Architecture diagram](images/architecture.png?raw=true "Architecture")
